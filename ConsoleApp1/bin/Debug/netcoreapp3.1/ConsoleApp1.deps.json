@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Unity.Newtonsoft.Json": "7.0.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "Unity.Newtonsoft.Json/7.0.0": {
+        "runtime": {
+          "lib/net35-Client/Unity.Newtonsoft.Json.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1.18304"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unity.Newtonsoft.Json/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ifz4eeEf7OpU471OPues73oioEmiHrCW8oLC6iyO0GiJoEiDD6g/5CEAVv6OJxMhZmnq/1aAyH0bA1Uid7kItg==",
+      "path": "unity.newtonsoft.json/7.0.0",
+      "hashPath": "unity.newtonsoft.json.7.0.0.nupkg.sha512"
+    }
+  }
+}

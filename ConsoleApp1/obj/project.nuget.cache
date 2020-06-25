@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "6zAxSV5mAqCVj+O0Ns41tkopzfh0yQcJgkdcZleTuAWyg2C32Qe+Ncd63VXVa/H67cVV7J/BS4IDbJaJOsKu5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikhi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikhi\\.nuget\\packages\\unity.newtonsoft.json\\7.0.0\\unity.newtonsoft.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Unity.Newtonsoft.Json 7.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Unity.Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
